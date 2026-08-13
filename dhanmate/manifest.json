@@ -1,0 +1,21 @@
+{
+  "short_name": "DhanMate",
+  "name": "DhanMate",
+  "description": "DhanMate – Stay Smart, Spend Wise. A personal finance assistant to help users track income, expenses, and savings goals, offering actionable budgeting advice powered by AI.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "DhanMate",
+  "description": "DhanMate – Stay Smart, Spend Wise. A personal finance assistant to help users track income, expenses, and savings goals, offering actionable budgeting advice powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

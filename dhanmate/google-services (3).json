@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594266550421",
+    "project_id": "dhanmate-e6243",
+    "storage_bucket": "dhanmate-e6243.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594266550421:android:ba1d7673b42e89da62eb9c",
+        "android_client_info": {
+          "package_name": "com.dhanmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3WZLKG_iCkZvIPBlGnpa-Q2_XQAJHI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
